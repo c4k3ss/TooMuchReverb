@@ -8,7 +8,7 @@
               pluginChannelConfigs="" pluginIsSynth="0" pluginWantsMidiIn="1"
               pluginProducesMidiOut="0" pluginIsMidiEffectPlugin="0" pluginEditorRequiresKeys="1"
               pluginAUExportPrefix="DemoProjectAU" pluginRTASCategory="" aaxIdentifier=""
-              pluginAAXCategory="32" pluginVST3Category="Fx,Reverb" companyName="c4k3ss"
+              pluginAAXCategory="8" pluginVST3Category="Fx,Reverb" companyName="c4k3ss"
               companyWebsite="" companyCopyright="" displaySplashScreen="0"
               reportAppUsage="0" splashScreenColour="Dark" enableIAA="1" cppLanguageStandard="17"
               pluginFormats="buildVST3,enableIAA" pluginCharacteristicsValue="pluginWantsMidiIn,pluginEditorRequiresKeys"
