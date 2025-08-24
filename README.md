@@ -40,7 +40,7 @@ Run the [installer](https://github.com/c4k3ss/TooMuchReverb/releases), open your
 
 ## Download
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest version of TooMuchReverb for Windows and macOS.
+You can [download](https://github.com/c4k3ss/TooMuchReverb/releases) the latest version of TooMuchReverb for Windows and macOS.
 
 ## Support
 
