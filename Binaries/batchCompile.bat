@@ -1,6 +1,6 @@
 @echo off
 set project=TooMuchReverb
-set build_path=C:\Users\iusti\Documents\HISE Projects\TooMuchReverb\Binaries
+set build_path=C:\Users\iusti\Documents\HISE Projects\TooMuchReverb\TooMuchReverb\Binaries
 set msbuild="C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MsBuild.exe"
 set vs_args=/p:Configuration="Release" /verbosity:minimal
 set PreferredToolArchitecture=x64
