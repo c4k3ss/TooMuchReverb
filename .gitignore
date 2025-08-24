@@ -1,3 +1,6 @@
 Binaries/Builds/VisualStudio2022/x64/Release/VST3/TooMuchReverb.iobj
 Binaries/Compiled/Shared Code/TooMuchReverb.lib
 .DS_Store
+Binaries/Builds/MacOSX/build/TooMuchReverb.build/Release/TooMuchReverb - Shared Code.build/Objects-normal/x86_64/Binary/libTooMuchReverb.a
+Binaries/Builds/MacOSX/build/TooMuchReverb.build/Release/TooMuchReverb - Shared Code.build/Objects-normal/arm64/Binary/libTooMuchReverb.a
+Binaries/Builds/MacOSX/build/Release/libTooMuchReverb.a

@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/c4k3ss/Documents/GitHub/TooMuchReverb/Binaries/JuceLibraryCode/include_hi_rlottie_32.cpp \
+  /Users/c4k3ss/Documents/GitHub/TooMuchReverb/Binaries/JuceLibraryCode/AppConfig.h \
+  /Users/c4k3ss/Documents/GitHub/TooMuchReverb/Binaries/JuceLibraryCode/JucePluginDefines.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/hi_rlottie_32.cpp \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/surpress_warnings_begin.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/lottieanimation.cpp \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../config.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/lottieitem.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/lottiekeypath.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vglobal.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vdebug.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/../config.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/lottiefiltermodel.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/lottiemodel.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/varenaalloc.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vbezier.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vpoint.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vbrush.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vmatrix.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vrect.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vbitmap.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vsharedptr.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vinterpolator.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vpath.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vcowptr.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../../include/rlottie.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../../include/rlottiecommon.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vdrawable.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vrle.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vraster.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vpainter.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vdrawhelper.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vpathmesure.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vtaskqueue.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/surpress_warnings_end.h

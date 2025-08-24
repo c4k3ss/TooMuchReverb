@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/c4k3ss/Documents/GitHub/TooMuchReverb/Binaries/JuceLibraryCode/include_hi_rlottie_27.cpp \
+  /Users/c4k3ss/Documents/GitHub/TooMuchReverb/Binaries/JuceLibraryCode/AppConfig.h \
+  /Users/c4k3ss/Documents/GitHub/TooMuchReverb/Binaries/JuceLibraryCode/JucePluginDefines.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/hi_rlottie_27.cpp \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/surpress_warnings_begin.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/lottiemodel.cpp \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/lottiemodel.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/varenaalloc.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vbezier.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vpoint.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vglobal.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vdebug.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/../config.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vbrush.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vmatrix.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vrect.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vbitmap.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vsharedptr.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vinterpolator.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vpath.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vcowptr.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vimageloader.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/lottie/../vector/vline.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/surpress_warnings_end.h
