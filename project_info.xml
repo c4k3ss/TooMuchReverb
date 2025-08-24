@@ -19,7 +19,7 @@
   <ExtraDefinitionsNetworkDll value=""/>
   <AppGroupID value=""/>
   <RedirectSampleFolder value=""/>
-  <AAXCategoryFX value="AAX_ePlugInCategory_Modulation"/>
+  <AAXCategoryFX value="AAX_ePlugInCategory_Reverb"/>
   <VST3Category value="Reverb"/>
   <SupportMonoFX value="No"/>
   <EnableMidiInputFX value="1"/>

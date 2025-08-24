@@ -9,7 +9,7 @@ namespace PresetData
     const int           externalFilesSize = 90;
 
     extern const char*  images;
-    const int           imagesSize = 539285;
+    const int           imagesSize = 540298;
 
     extern const char*  impulses;
     const int           impulsesSize = 28;
@@ -18,7 +18,7 @@ namespace PresetData
     const int           midiFilesSize = 28;
 
     extern const char*  preset;
-    const int           presetSize = 4862;
+    const int           presetSize = 5174;
 
     extern const char*  samplemaps;
     const int           samplemapsSize = 28;
