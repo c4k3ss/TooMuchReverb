@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/c4k3ss/TooMuchReverb"><img src="https://raw.githubusercontent.com/c4k3ss/TooMuchReverb/refs/heads/main/Images/HQLogo.png?token=GHSAT0AAAAAADIRDJV63ZE2ZE5EMLR2ISOO2FLBIYQ" alt="TooMuchReverb" width="200"></a>
+  <a href="https://github.com/c4k3ss/TooMuchReverb"><img src="https://raw.githubusercontent.com/c4k3ss/TooMuchReverb/refs/heads/main/Images/HQLogo.png" alt="TooMuchReverb" width="200"></a>
   <br>
   TooMuchReverb
   <br>
@@ -20,7 +20,7 @@
   <a href="#download">Download</a> •
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/c4k3ss/TooMuchReverb/refs/heads/main/Images/Plugin.png?token=GHSAT0AAAAAADIRDJV6WIVHR5QDSABXXQTK2FLBKJA"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/c4k3ss/TooMuchReverb/refs/heads/main/Images/Plugin.png"></p>
 
 ## Key Features
 
