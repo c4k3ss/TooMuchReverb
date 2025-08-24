@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/c4k3ss/Documents/GitHub/TooMuchReverb/Binaries/JuceLibraryCode/include_hi_rlottie_3.cpp \
+  /Users/c4k3ss/Documents/GitHub/TooMuchReverb/Binaries/JuceLibraryCode/AppConfig.h \
+  /Users/c4k3ss/Documents/GitHub/TooMuchReverb/Binaries/JuceLibraryCode/JucePluginDefines.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/hi_rlottie_3.cpp \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/surpress_warnings_begin.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/vector/vraster.cpp \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/vector/vraster.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/vector/vglobal.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/vector/vdebug.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/vector/../config.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/vector/vrect.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/vector/vpoint.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/vector/freetype/v_ft_raster.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/vector/freetype/v_ft_types.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/vector/freetype/v_ft_stroker.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/vector/vmatrix.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/vector/vpath.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/vector/vcowptr.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/vector/vrle.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/vector/vtaskqueue.h \
+  /Users/c4k3ss/Documents/Hise/hi_rlottie/src/surpress_warnings_end.h
