@@ -37,6 +37,14 @@ Run the [installer](https://github.com/c4k3ss/TooMuchReverb/releases), open your
 > **Note**
 > Be sure to download the installer for your OS (Windows/macOS)
 
+TooMuchReverb was developed using [Hise](https://hise.dev/). 
+To open the project:
+
+* Open Hise,
+* Select "Open existing project"
+* Open the TooMuchReverb folder
+* Navigate to "Project Directory"
+* In the "Presets" folder, open "Preset.hip"
 
 ## Download
 
