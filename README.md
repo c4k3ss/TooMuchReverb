@@ -66,7 +66,9 @@ The 3rd Reverb mode is a combination of two reverbs made with [Faust](https://fa
 
 If you like this project and think it has helped in any way, consider buying me a coffee!
 
-<a href="https://buymeacoffee.com/c4k3ss" target="_blank"><img src="app/img/bmc-button.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://otwayprod.gumroad.com/coffee" target="_blank"><img src="app/img/bmc-button.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+TooMuchReverb is also available for download on [Gumroad](https://otwayprod.gumroad.com/l/TooMuchReverb)!
 
 ## License
 
