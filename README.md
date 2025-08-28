@@ -16,6 +16,7 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
+  <a href="#upcoming">Upcoming</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
@@ -27,11 +28,24 @@
 
 ## Key Features
 
-* Reverb
-* Downsampling
-* Delay
-* Uhh... knobs?
-* It's free!
+
+* 3 Reverb modes
+  * Simple reverb (Blue Theme)
+  * Convolution reverb (Purple Theme)
+  * Shimmer reverb (Red theme)
+* Downsample effect
+* Delay effect
+* Dynamic background (changes based on knob values)
+* MIDI CC for automation
+
+## Upcoming
+
+
+* Presets
+* A 4th Reverb mode?
+* Enhanced visuals
+* And more!
+
 
 ## How To Use
 
