@@ -50,7 +50,7 @@ To open the project:
 * In the "Presets" folder, open "Preset.hip"
 
 > **Note**
-> Faust is necessary for the 3rd Reverb mode to work
+> Faust and the newest version of HISE (not from the release page) are necessary for the Project to work inside the app. IPP is also recommended
 
 ## Download
 
