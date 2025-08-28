@@ -5,7 +5,7 @@
   <Version value="1.0.0"/>
   <Description value=""/>
   <BundleIdentifier value="com.c4k3ss.TooMuchReverb"/>
-  <PluginCode value="Tmrc"/>
+  <PluginCode value="Tmrv"/>
   <EmbedAudioFiles value="Yes"/>
   <EmbedImageFiles value="Yes"/>
   <SupportFullDynamicsHLAC value="No"/>
