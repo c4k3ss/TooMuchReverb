@@ -18,6 +18,9 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#support">Support</a> •
+  <a href="#license">License</a> •
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/c4k3ss/TooMuchReverb/refs/heads/main/Images/Plugin.png"></p>
@@ -46,9 +49,18 @@ To open the project:
 * Navigate to "Project Directory"
 * In the "Presets" folder, open "Preset.hip"
 
+> **Note**
+> Faust is necessary for the 3rd Reverb mode to work
+
 ## Download
 
 You can [download](https://github.com/c4k3ss/TooMuchReverb/releases) the latest version of TooMuchReverb for Windows and macOS.
+
+## Credits
+
+I orignally got the idea of making a plugin from [this video](https://www.youtube.com/watch?v=DrnGI6ce8fY), so I recommend watching it!
+
+The 3rd Reverb mode is a combination of two reverbs made with [Faust](https://faust.grame.fr/), one of which is [elysiera](https://github.com/azur1s/elysiera?tab=readme-ov-file).
 
 ## Support
 
