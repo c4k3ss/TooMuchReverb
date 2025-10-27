@@ -2922,6 +2922,9 @@
     <ClInclude Include="..\..\..\..\..\HISE-develop\hi_dsp_library\node_api\helpers\range_impl.h">
       <Filter>JUCE Modules\hi_dsp_library\node_api\helpers</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\..\..\..\HISE-develop\hi_dsp_library\node_api\helpers\UIUpdater.h">
+      <Filter>JUCE Modules\hi_dsp_library\node_api\helpers</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\..\..\..\HISE-develop\hi_dsp_library\node_api\nodes\Base.h">
       <Filter>JUCE Modules\hi_dsp_library\node_api\nodes</Filter>
     </ClInclude>
