@@ -8,6 +8,9 @@
 
 <h4 align="center">A free open-source Reverb plugin</h4>
 
+> **Note**
+> Updates are temporarily on hold due to issues with my PC and Macbook. The plugin remains mostly functional, but new features and bug fixes are paused until further notice.
+
 <p align="center">
   <a href="https://saythanks.io/to/c4k3ss">
       <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
